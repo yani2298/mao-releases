@@ -1,9 +1,8 @@
 <p align="center">
   <img src="icon.png" width="150" alt="MAO AI Logo">
 </p>
-![dcs 2](https://github.com/user-attachments/assets/06400489-c9e3-4a75-a138-b092ad216a29)
-![cqsc 2](https://github.com/user-attachments/assets/5c92e852-3f0b-4c0a-9562-6272a7b3d78b)
-
+<img width="1680" height="985" alt="cqsc 2 2" src="https://github.com/user-attachments/assets/eddb2a44-6e4e-40e4-a5ff-29cdf12f7d04" />
+<img width="1680" height="985" alt="dcs 2 2" src="https://github.com/user-attachments/assets/fc960172-cfee-43e9-b14c-12acaf91fe22" />
 
 <h1 align="center">MAO AI</h1>
 
