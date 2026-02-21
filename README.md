@@ -1,6 +1,8 @@
 <p align="center">
   <img src="icon.png" width="150" alt="MAO AI Logo">
 </p>
+![dcs 2](https://github.com/user-attachments/assets/2c4284f8-8d3f-405e-b609-f5a141b0082e)
+![cqsc 2](https://github.com/user-attachments/assets/af46aa94-4e6e-49c4-8b48-8edb342edbec)
 
 <h1 align="center">MAO AI</h1>
 
@@ -23,7 +25,7 @@
 
 Conçue pour les professionnels, les développeurs et les créatifs, MAO AI élimine la friction entre l'humain et l'IA avec un design sombre minimaliste, des animations fluides et des outils de productivité avancés.
 
-![Interface principale de MAO AI](./screenshot-1.png)
+![Interface principale de MAO AI]()
 
 ---
 
@@ -47,7 +49,7 @@ Un studio de création graphique intégré.
 - **Imagine Gallery :** Retrouvez toutes vos générations dans une galerie privée, stockée localement.
 - **Lightbox PRO :** Visualisez vos images en plein écran, copiez le prompt original via l'intégration native au presse-papiers macOS, et exportez en haute résolution en un clic.
 
-![Imagine Gallery](./screenshot-2.png)
+![Imagine Gallery]()
 
 ### 💾 Système de Mémoire Continue (Auto-Facts)
 L'IA qui apprend à vous connaître. MAO AI analyse silencieusement vos conversations pour en extraire des **faits clés** sur vos préférences (langages de code préférés, objectifs, contexte pro). Ces faits sont stockés *uniquement sur votre machine* en SQLite et réinjectés dans le contexte pour des réponses ultra-personnalisées.
