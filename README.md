@@ -1,10 +1,11 @@
 <p align="center">
   <img src="icon.png" width="150" alt="MAO AI Logo">
-</p>
+  ![CleanShot 2026-03-01 at 23 48 29@2x - Moyenne](https://github.com/user-attachments/assets/2368bc88-6b0a-4f2c-8386-4d8971d1c8b7)
+![CleanShot 2026-03-01 at 23 48 41@2x - Moyenne](https://github.com/user-attachments/assets/beace5e6-9d59-4c24-a6b9-a5074b388f03)
+</p>! 
 
-![CleanShot 2026-03-01 at 23 48 29@2x - Moyenne](https://github.com/user-attachments/assets/6861efcb-d884-4370-88f6-c1dea8b13489)
 
-![CleanShot 2026-03-01 at 23 48 29@2x - Moyenne](https://github.com/user-attachments/assets/e24f861a-c90b-42e6-87c6-fdd96156ae07)
+
 
 <h1 align="center">MAO AI</h1>
 
