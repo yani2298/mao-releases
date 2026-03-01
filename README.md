@@ -1,7 +1,7 @@
 <p align="center">
   <img src="icon.png" width="150" alt="MAO AI Logo">
   ![CleanShot 2026-03-01 at 23 48 29@2x - Moyenne](https://github.com/user-attachments/assets/2368bc88-6b0a-4f2c-8386-4d8971d1c8b7)
-![CleanShot 2026-03-01 at 23 48 41@2x - Moyenne](https://github.com/user-attachments/assets/beace5e6-9d59-4c24-a6b9-a5074b388f03)
+
 </p>! 
 
 
